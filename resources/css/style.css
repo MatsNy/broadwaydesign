@@ -14,9 +14,8 @@ h3 {
 .header h1 {
   font-size: 70px;
 }
-.jump_to {
-  font-size: 18px;
-  color: white;
+.header h2 {
+  font-size: 23px;
 }
 .process h2 {
   font-size: 32px;
@@ -27,8 +26,9 @@ h3 {
 .process_detail p {
   font-size: 14px;
 }
-.header h2 {
-  font-size: 23px;
+.jump_to {
+  font-size: 18px;
+  color: white;
 }
 .bottom_page {
   background-color: dimgray;
